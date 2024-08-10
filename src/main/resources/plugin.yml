@@ -1,0 +1,7 @@
+name: SampleNMSPlugin
+version: ${version}
+main: com.acclash.sampleNMSPlugin.SampleNMSPlugin
+api-version: '1.21'
+authors: [ Anston_Sorensen ]
+description: A sample NMS plugin that can always be referred to
+website: www.acclash.com
