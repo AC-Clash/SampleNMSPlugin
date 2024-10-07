@@ -26,4 +26,4 @@ Binaries
 You can download the jar files in the releases tab if you don't want to compile SampleNMSPlugin from source. Keep in
 mind, it usually won't be up-to-date with the latest commit.
 
-(c) 2021-2024 Anston Sorensen
+Copyright (C) 2024 AC Clash GP
